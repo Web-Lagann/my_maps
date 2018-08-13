@@ -1,0 +1,50 @@
+											JavaScript Avancé
+												my_maps
+
+
+1 - Détails administratifs: 
+
+• Le projet est à réaliser seul.
+• Les sources doivent être rendues avec BLIH.
+• Répertoire de rendu : JavaScript_Avance_my_maps
+
+
+
+2 - Introduction:
+
+	Vous aimeriez partir en vacances. Seulement voilà, vous pensez qu’il n’existe pas d’outil
+adapté pour trouver votre trajet. Vous vous dites que finalement, les vacances attendront et vous
+avez bien raison ! Vous décidez alors de concevoir un site qui permet de choisir sa route pour aller
+d’un point A à un point B. Cependant, comme vous aimez faire du tourisme, vous décidez de faire
+apparaitre sur votre trajet, tous les monuments, musées, ou autres reliques qui en valent la peine.
+Ainsi, vous pourrez choisir non pas la route la plus rapide, ni la plus courte, mais celle qui vous fait
+profiter au mieux du paysage lors de votre voyage.
+
+Google Maps JavaScript API :
+https://developers.google.com/maps/documentation/javascript/
+
+
+
+3 - Projet:
+
+	Vous devez intégrer une carte dans un format « 800px*600px » ainsi qu’un bouton
+pour passer en mode « fullscreen ». Vous implémenterez un formulaire permettant de
+choisir un point de départ ainsi qu’un point d’arrivée. Il doit être possible de renseigner le
+nom de la ville ou bien de donner sa position en coordonnées. La fonctionnalité de
+géolocalisation du navigateur doit être utilisable comme point de départ. Il doit être
+également possible de cliquer sur un endroit de la « Map » pour sélectionner un point. Vous
+devez enregistrer un maximum d’informations « hors-ligne » qui permettraient de retrouver
+son chemin si la connexion internet devait être interrompue. Enfin, n’oubliez pas de trouver
+le trajet qui comporte un maximum d’attractions touristiques, c’est la base de votre outil !
+Mettez du fun et faites-vous plaisir (cf. http://www.yarrmaps.com) !
+
+
+
+4 - Bonus:
+
+	Vous devez proposer une autre solution WEB pour une problématique différente,
+utilisant les Google Map JavaScript API. Il s’agit d’un sujet libre, vous devrez soutenir votre
+projet en répondant aux questions : QQOQCCP
+
+Exemples de sites utilisant Google Maps JavaScript API :
+https://developers.google.com/maps/showcase/
